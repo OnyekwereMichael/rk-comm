@@ -205,7 +205,7 @@ function Header() {
       <motion.div 
        variants={{
       hidden: {
-        x: index % 2 === 0 ? -50 : 50, y: -50
+        x: -50, y: -50
       },
       visible: {
         x: 0, y: 0
@@ -247,7 +247,7 @@ function Header() {
       < motion.div 
        variants={{
       hidden: {
-        x: index % 2 === 0 ? -50 : 50, y: -50
+        x:-50, y: -50
       },
       visible: {
         x: 0, y: 0
@@ -292,7 +292,7 @@ function Header() {
       <motion.div  
        variants={{
       hidden: {
-        x: index % 2 === 0 ? -50 : 50, y: -50
+        x: -50, y: -50
       },
       visible: {
         x: 0, y: 0
@@ -333,7 +333,7 @@ function Header() {
       <motion.div 
        variants={{
       hidden: {
-        x: index % 2 === 0 ? -50 : 50, y: -50
+        x: -50, y: -50
       },
       visible: {
         x: 0, y: 0
