@@ -383,7 +383,7 @@ function Header() {
 <footer className='mt-16 faded'>
    <p className='text-center font-semibold pt-4'>Get the Newest Deal and Updates delivered straight to your inbox</p>
    
-   <section className='flex justify-center mt-7 '>
+   {/* <section className='flex justify-center mt-7 '>
    <div>
        <input type="text" placeholder='write your name' className='rounded pl-2 pr-2 p-1'/>
    </div>
@@ -391,7 +391,7 @@ function Header() {
    <div>
        <button className='inp rounded pl-2 pr-2 p-1'>read more</button>
    </div>
-   </section>
+   </section> */}
 
 
 <section className='grid grid-cols-5 gap-10 justify-between p-24 gdg'>
