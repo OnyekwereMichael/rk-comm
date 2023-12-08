@@ -19,9 +19,6 @@ rounded
 }
 .rke{
     @apply ml-6
-}.inp{
-    background: #27AAE1;
-    color: white;
 }
 .dollar{
     color:#292929;
@@ -31,8 +28,6 @@ rounded
 }.sign{
     background-color: lightblue;
     color: #27AAE1;
-}.miles{
-    color:  #27AAE1;
 }
 .feature{
     background-color: #FB7203;
