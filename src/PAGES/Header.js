@@ -389,7 +389,7 @@ function Header() {
    </div>
 
    <div>
-       <button className='inp rounded pl-2 pr-2 p-1 bg-black-700 text-white'>Subscribe</button>
+       <button className='inp rounded-full pl-2 pr-2 p-1  text-white'>Subscribe</button>
    </div>
    </section>
 

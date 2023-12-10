@@ -28,6 +28,8 @@ rounded
 }.sign{
     background-color: lightblue;
     color: #27AAE1;
+}.inp{
+    background-color: black;
 }
 .feature{
     background-color: #FB7203;
